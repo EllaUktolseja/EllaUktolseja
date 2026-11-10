@@ -67,10 +67,10 @@ My broader goals are to:
 
 <p align="center">
   <a href="https://github.com/EllaUktolseja">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EllaUktolseja&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6&custom_title=GitHub%20Stats" alt="Ella's GitHub statistics" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=EllaUktolseja&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6&custom_title=GitHub%20Stats" alt="Ella's GitHub statistics" />
   </a>
   <a href="https://github.com/EllaUktolseja">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllaUktolseja&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&card_width=400" alt="Most used languages in Ella's public repositories" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EllaUktolseja&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&card_width=400" alt="Most used languages in Ella's public repositories" />
   </a>
 </p>
 
