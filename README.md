@@ -12,7 +12,7 @@
       <h1>Hey, I'm Ella <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand" /></h1>
       <h3>Creative mind. Developer mindset.</h3>
       <p>
-        I enjoy turning ideas into useful digital experiences — from clean, responsive interfaces to the logic that makes applications work.
+        I enjoy turning ideas into useful digital experiences, from clean and responsive interfaces to the logic that makes applications work.
       </p>
       <p>
         <a href="https://github.com/EllaUktolseja"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
@@ -20,7 +20,6 @@
       </p>
     </td>
     <td width="34%" align="center" valign="middle">
-      <!-- Upload your image into the assets folder, then change the filename below if needed. -->
       <img src="./assets/profile-picture.png" width="210" alt="Profile illustration" />
     </td>
   </tr>
