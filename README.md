@@ -20,9 +20,8 @@
       </p>
     </td>
     <td width="34%" align="center" valign="middle">
-      <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Ella&backgroundColor=ede9fe" width="210" alt="Illustrated avatar placeholder for Ella" />
-      <br />
-      <sub><i>Illustration placeholder — can be replaced with the anime programmer artwork.</i></sub>
+      <!-- Upload your image into the assets folder, then change the filename below if needed. -->
+      <img src="./assets/profile-picture.png" width="210" alt="Profile illustration" />
     </td>
   </tr>
 </table>
