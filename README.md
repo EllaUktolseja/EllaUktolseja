@@ -6,9 +6,7 @@
 
   <h1>Hey, I'm Ella <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand" /></h1>
 
-  <p>
-    <b>Building thoughtful web experiences, one project at a time.</b>
-  </p>
+  <p><b>Building thoughtful web experiences, one project at a time.</b></p>
 
   <p>
     <a href="https://github.com/EllaUktolseja">
@@ -25,9 +23,9 @@
 I'm a developer focused on **fullstack JavaScript development**. I enjoy turning ideas into useful web applications, shaping clean user interfaces, and learning how reliable systems are built behind the scenes.
 
 - 💻 Building web applications with JavaScript and React.
-- 🎨 Interested in clean UI, responsive design, and good user experience.
+- 🎨 Interested in clean UI, responsive design, and thoughtful user experience.
 - ⚙️ Developing my skills in backend engineering, APIs, and database design.
-- 🌱 Currently expanding my knowledge of Next.js, NestJS, Prisma, and PostgreSQL.
+- 🌱 Currently exploring Next.js, NestJS, Prisma, and PostgreSQL through a private e-commerce rebuild.
 - 🚀 I learn by building, testing, improving, and shipping projects.
 
 ### ✦ Tech stack
@@ -48,10 +46,22 @@ I'm a developer focused on **fullstack JavaScript development**. I enjoy turning
 
 | Project | What it is |
 |:--|:--|
-| [**Elara**](https://github.com/EllaUktolseja/elara) | A personal developer portfolio built with React and Vite. |
-| [**Rookees**](https://github.com/EllaUktolseja/rookees) | A website for an artisanal browkies business. |
-| [**Realla Web**](https://github.com/EllaUktolseja/realla-web) | A fullstack web application project. |
-| [**Research**](https://github.com/EllaUktolseja/Research) | A software security research project focused on malicious npm packages. |
+| [**Elara**](https://github.com/EllaUktolseja/elara) | A personal developer portfolio built with React, JavaScript, and Vite. |
+| [**Rookees**](https://github.com/EllaUktolseja/rookees) | A lightweight website for an artisanal brownie-cookie business, built with HTML, CSS, and vanilla JavaScript. |
+| [**Realla Web**](https://github.com/EllaUktolseja/realla-web) | A fullstack portfolio platform built with React, Express, MongoDB, and TypeScript. |
+| [**Research**](https://github.com/EllaUktolseja/Research) | A software security research project exploring malicious npm package analysis. |
+| [**Veritas**](https://github.com/EllaUktolseja/Veritas) | A web-based fake news detection project using NLP and machine learning. |
+
+### ✦ Current focus
+
+I'm rebuilding a fullstack e-commerce application as a hands-on learning project, with a focus on **Next.js, NestJS, Prisma, and PostgreSQL**. The repository is currently private while development is in progress.
+
+My broader goals are to:
+
+- Build production-ready fullstack applications.
+- Improve software architecture and database design.
+- Write maintainable, reusable code.
+- Become a stronger fullstack JavaScript developer.
 
 ### ✦ GitHub at a glance
 
