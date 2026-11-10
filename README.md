@@ -65,14 +65,20 @@ My broader goals are to:
 
 ### ✦ GitHub at a glance
 
-<p align="center">
-  <a href="https://github.com/EllaUktolseja">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=EllaUktolseja&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6&custom_title=GitHub%20Stats" alt="Ella's GitHub statistics" />
-  </a>
-  <a href="https://github.com/EllaUktolseja">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EllaUktolseja&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&card_width=400" alt="Most used languages in Ella's public repositories" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/EllaUktolseja">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api?username=EllaUktolseja&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6&custom_title=GitHub%20Stats" alt="Ella's GitHub statistics" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/EllaUktolseja">
+        <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EllaUktolseja&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&card_width=400" alt="Most used languages in Ella's public repositories" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img width="75%" src="https://streak-stats.demolab.com?user=EllaUktolseja&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="Ella's GitHub contribution streak" />
