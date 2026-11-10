@@ -65,10 +65,22 @@ My broader goals are to:
 
 ### ✦ GitHub at a glance
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EllaUktolseja&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllaUktolseja&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/EllaUktolseja">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EllaUktolseja&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=8B5CF6&custom_title=GitHub%20Stats" alt="Ella's GitHub statistics" />
+  </a>
+  <a href="https://github.com/EllaUktolseja">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllaUktolseja&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&card_width=400" alt="Most used languages in Ella's public repositories" />
+  </a>
+</p>
+
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=EllaUktolseja&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="Ella's GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <sub>Stats are generated from public GitHub activity. Private repositories may not be included by these public card services.</sub>
+</p>
 
 ---
 
